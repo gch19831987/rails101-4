@@ -7,6 +7,7 @@ end
 
 gem "simple_form"
 gem 'devise'
+gem 'will_paginate'
 
 gem 'bootstrap-sass'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
